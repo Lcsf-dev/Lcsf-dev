@@ -59,3 +59,10 @@ Busco oportunidades, projetos e conexões que me permitam crescer tecnicamente, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.lcsf.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukdx/)
+
+## ⚙️ GitHub Analytics
+
+<p align="center">
+  <img align="top" height="195" alt="Estatísticas do GitHub de Lcsf-dev" src="https://github-stats-extended.vercel.app/api?username=Lcsf-dev&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=450" />
+  <img align="top" height="195" alt="Linguagens de Lcsf-dev por volume de código" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lcsf-dev&amp;layout=compact&amp;theme=github_dark&amp;custom_title=Technologies&amp;langs_count=8&amp;card_width=320" />
+</p>
