@@ -33,6 +33,9 @@ Atualmente, estou direcionando minha evolução profissional para o desenvolvime
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+  <img align="center" alt="VB6" title="Visual Basic 6" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg">
 </div>
 
 ## Áreas de Conhecimento
@@ -66,3 +69,11 @@ Busco oportunidades, projetos e conexões que me permitam crescer tecnicamente, 
   <img align="top" height="195" alt="Estatísticas do GitHub de Lcsf-dev" src="https://github-stats-extended.vercel.app/api?username=Lcsf-dev&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=450" />
   <img align="top" height="195" alt="Linguagens de Lcsf-dev por volume de código" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lcsf-dev&amp;layout=compact&amp;theme=github_dark&amp;custom_title=Technologies&amp;langs_count=8&amp;card_width=320" />
 </p>
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcsf-dev/Lcsf-dev/output/cobrinha-escura.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lcsf-dev/Lcsf-dev/output/cobrinha.svg">
+  <img alt="Animação da cobrinha no meu gráfico de contribuições" src="https://raw.githubusercontent.com/Lcsf-dev/Lcsf-dev/output/cobrinha.svg">
+</picture>
