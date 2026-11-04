@@ -76,6 +76,9 @@ Busco oportunidades, projetos e conexões que me permitam crescer tecnicamente, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.lcsf.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukdx/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521993449434)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4TjPZ4swH)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0A192F?style=for-the-badge&logo=netlify&logoColor=white)](https://lucas-fernandes-portfolio-v2.netlify.app/)
 
 ## ⚙️ GitHub Analytics
 
