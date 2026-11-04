@@ -1,4 +1,6 @@
-# Olá, me chamo Lucas Fernandes!
+<p align="center">
+  <img src="assets/lucas-fernandes-banner-animado.gif" alt="Banner animado de Lucas Fernandes, desenvolvedor full stack" width="100%">
+</p>
 
 ## Bem-vindo ao meu perfil do GitHub 👋
 
