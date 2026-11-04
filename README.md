@@ -2,7 +2,7 @@
   <img src="assets/lucas-fernandes-banner-animado.gif" alt="Banner animado de Lucas Fernandes, desenvolvedor full stack" width="100%">
 </p>
 
-## Bem-vindo ao meu perfil do GitHub 👋
+## <a name="bem-vindo-ao-meu-perfil-do-github-"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/boas-vindas-escuro.svg"><img src="assets/titulos/boas-vindas-claro.svg" alt="Bem-vindo ao meu perfil do GitHub" width="413" height="30"></picture> 👋
 
 Sou profissional da área de tecnologia há mais de 15 anos, com uma trajetória sólida em hardware, manutenção de computadores, instalação e configuração de softwares, suporte técnico e resolução de problemas.
 
@@ -17,13 +17,13 @@ Minha vivência técnica me permite enxergar a tecnologia de forma ampla: desde 
 - 📚 Estudando e aprimorando conhecimentos em desenvolvimento de software;
 - 🤝 Aberto a conexões, aprendizado, colaboração e novos desafios.
 
-## Sobre minha jornada
+## <a name="sobre-minha-jornada"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/sobre-minha-jornada-escuro.svg"><img src="assets/titulos/sobre-minha-jornada-claro.svg" alt="Sobre minha jornada" width="244" height="30"></picture>
 
 Minha carreira começou com uma forte atuação na área técnica, lidando diretamente com computadores, sistemas, softwares e suporte ao usuário. Essa experiência me deu uma base importante para entender problemas reais, trabalhar com responsabilidade e buscar soluções práticas.
 
 Atualmente, estou direcionando minha evolução profissional para o desenvolvimento de software, aplicando minha experiência em tecnologia para construir uma base cada vez mais consistente como desenvolvedor.
 
-## Tecnologias e Ferramentas
+## <a name="tecnologias-e-ferramentas"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/tecnologias-e-ferramentas-escuro.svg"><img src="assets/titulos/tecnologias-e-ferramentas-claro.svg" alt="Tecnologias e Ferramentas" width="309" height="30"></picture>
 
 <table>
   <tr>
@@ -52,7 +52,7 @@ Atualmente, estou direcionando minha evolução profissional para o desenvolvime
   </tr>
 </table>
 
-## Áreas de Conhecimento
+## <a name="áreas-de-conhecimento"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/areas-de-conhecimento-escuro.svg"><img src="assets/titulos/areas-de-conhecimento-claro.svg" alt="Áreas de Conhecimento" width="276" height="30"></picture>
 
 - Desenvolvimento de software em evolução;
 - Hardware e manutenção de computadores;
@@ -65,13 +65,13 @@ Atualmente, estou direcionando minha evolução profissional para o desenvolvime
 - Azure, Git, HTML e CSS;
 - Boas práticas de desenvolvimento.
 
-## Objetivo Profissional
+## <a name="objetivo-profissional"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/objetivo-profissional-escuro.svg"><img src="assets/titulos/objetivo-profissional-claro.svg" alt="Objetivo Profissional" width="244" height="30"></picture>
 
 Meu objetivo é continuar evoluindo como desenvolvedor, aproveitando minha experiência de 15 anos em tecnologia para criar soluções com qualidade, organização e visão prática.
 
 Busco oportunidades, projetos e conexões que me permitam crescer tecnicamente, colaborar com outras pessoas e aplicar tecnologia para resolver problemas reais.
 
-## Contatos
+## <a name="contatos"></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/contatos-escuro.svg"><img src="assets/titulos/contatos-claro.svg" alt="Contatos" width="109" height="30"></picture>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfernandes-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.lcsf.dev@gmail.com)
@@ -80,14 +80,14 @@ Busco oportunidades, projetos e conexões que me permitam crescer tecnicamente, 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/422092832787136513)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0A192F?style=for-the-badge&logo=netlify&logoColor=white)](https://lucas-fernandes-portfolio-v2.netlify.app/)
 
-## ⚙️ GitHub Analytics
+## <a name="️-github-analytics"></a>⚙️ <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/github-analytics-escuro.svg"><img src="assets/titulos/github-analytics-claro.svg" alt="GitHub Analytics" width="198" height="30"></picture>
 
 <p align="center">
   <img align="top" height="195" alt="Estatísticas do GitHub de Lcsf-dev" src="https://github-stats-extended.vercel.app/api?username=Lcsf-dev&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=450" />
   <img align="top" height="195" alt="Linguagens de Lcsf-dev por volume de código" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lcsf-dev&amp;layout=compact&amp;theme=github_dark&amp;custom_title=Technologies&amp;langs_count=8&amp;card_width=320" />
 </p>
 
-## 🐍 Minhas contribuições
+## <a name="-minhas-contribuições"></a>🐍 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/titulos/minhas-contribuicoes-escuro.svg"><img src="assets/titulos/minhas-contribuicoes-claro.svg" alt="Minhas contribuições" width="250" height="30"></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lcsf-dev/Lcsf-dev/output/cobrinha-escura.svg">
